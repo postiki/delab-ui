@@ -84,7 +84,7 @@ export const DesktopUniversalModal: Component<DesktopUniversalModalProps> = prop
             <WalletsContainerStyled>
                         <li>
                         <WalletItem
-                                    icon={"https://avatars.githubusercontent.com/u/116884789?s=200&v=4"}
+                                    icon={"https://delab-team.ams3.cdn.digitaloceanspaces.com/icons/WalletAvatar.png"}
                                     name={"DeWallet"}
                                     onClick={onSelectTelegram}
                                 />
